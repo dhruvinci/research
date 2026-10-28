@@ -5,6 +5,9 @@ they touch, whose limb is whose, and how far a model's description can be truste
 case because it is the hardest: two bodies in constant contact. Each thread is its own repository with its experiments,
 code, figures and every negative result.
 
+The thread repositories are curated exports from a private research workspace, where the full working history is
+kept; that is why they were all created on 26 October 2026, when publishing began, though the work dates as shown.
+
 ![Timeline](assets/timeline.png)
 
 | Thread | When | Question | Where it ended |
