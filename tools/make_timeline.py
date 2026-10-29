@@ -13,6 +13,7 @@ THREADS = [  # name, start, end, colour (blue: research repo, grey: notes only, 
     ('fast-slow-vision: Human State v0', date(2026, 9, 21), date(2026, 9, 28), '#2a78d6'),
     ('kakashi-autolabel: VLM agent + SAM 3.1 labelling', date(2026, 9, 30), date(2026, 10, 22), '#2a78d6'),
     ('engage3D: two-person engagement in 3D', date(2026, 10, 22), date(2026, 11, 10), '#eb6834'),
+    ('Blindsight: spatial information inside VLMs', date(2026, 10, 28), date(2026, 11, 3), '#eb6834'),
 ]
 fig, ax = plt.subplots(figsize=(9.6, 3.9), facecolor='#fcfcfb')
 ax.set_facecolor('#fcfcfb')
